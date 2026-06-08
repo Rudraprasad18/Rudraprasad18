@@ -15,7 +15,7 @@ Drashti Bhavsar
 - 🌱 I'm learning **advanced backend systems and cloud deployment**
 - 👯 I'm looking to collaborate on **open source web and data projects**
 - 📝 I regularly write technical blogs and share learnings
-- 📫 How to reach me: **[your@email.com](your@email.com)**
+- 📫 How to reach me: **[rudra2008.92@email.com](rudra2008.92@email.com)**
 - ⚡ Fun fact: I turn ☕ into code and ship features at lightning speed!
 
 ---
@@ -68,12 +68,12 @@ Drashti Bhavsar
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rudraprasad18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraprasad18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraprasad18&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
