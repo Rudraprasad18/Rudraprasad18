@@ -1,7 +1,3 @@
-ovd-idtx-wkv
-
-Drashti Bhavsar
-23:12
 <h1 align="center">Hi 👋, I'm Rudra Bhavsar</h1>
 <h3 align="center">Building the future with code, creativity, and a dash of caffeine ☕💻</h3>
 
@@ -67,10 +63,10 @@ Drashti Bhavsar
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudraprasad18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraprasad18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraprasad18&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -80,6 +76,7 @@ Drashti Bhavsar
 
 ## 🤝 Connect With Me
 linkdin: https://www.linkedin.com/in/rudraprasadbhavsar/
+<br>
 Email: rudra2008.92@gmail.com
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
