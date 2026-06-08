@@ -2,7 +2,7 @@ ovd-idtx-wkv
 
 Drashti Bhavsar
 23:12
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Rudra Bhavsar</h1>
 <h3 align="center">Building the future with code, creativity, and a dash of caffeine ☕💻</h3>
 
 <p align="center">
@@ -79,7 +79,8 @@ Drashti Bhavsar
 ---
 
 ## 🤝 Connect With Me
-
+linkdin: https://www.linkedin.com/in/rudraprasadbhavsar/
+Email: rudra2008.92@gmail.com
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-ba
